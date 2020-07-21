@@ -12,4 +12,4 @@ Columns containing free-text are cleaned using the Python pandas library in an e
 - cscopendata_clean.csv: cleaned dataset
 
 ## Analysis and Visualization
-Further wrangling, aggregation, analysis, and visualization is done in Tableau and can be found on [Tableau Public]().
+Further data wrangling, analysis, and visualization is done in Tableau and can be found on [Tableau Public]().
