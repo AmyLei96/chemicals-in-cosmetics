@@ -11,5 +11,5 @@ Columns containing free-text are cleaned using the Python pandas library in an e
 - cscpopendata.csv: raw dataset
 - cscopendata_clean.csv: cleaned dataset
 
-## Visualization
-A dashboard of the trends in the cleaned dataset can be found on Tableau Public.
+## Analysis and Visualization
+Further wrangling, aggregation, analysis, and visualization is done in Tableau and can be found on [Tableau Public]().
