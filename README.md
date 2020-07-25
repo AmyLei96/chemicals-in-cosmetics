@@ -5,11 +5,12 @@ Consumers are generally not aware of the potentially hazardous ingreidents in th
 ## Data
 Raw data about the cosmetic companies that have reported hazardous ingredients in their products is aggregated by the CDPH and made available by [HealthData.gov](https://healthdata.gov/dataset/chemicals-cosmetics). The dataset is updated frequently, but for the purpose of this exercise the most recent update is from June 2020.
 
-Columns containing free-text are cleaned using the Python pandas library in an effort to mainly reduce redundant company and brand names that are recorded in different formats. 
+Free-text columns are cleaned using the Python pandas library in an effort to reduce redundant company and brand names that have been recorded in different formats. 
 
 ## Files
 - cscpopendata.csv: raw dataset
 - cscopendata_clean.csv: cleaned dataset
+- cali_chemicals_cosmetics.ipynb: Jupyter notebook for cleaning the free-text columns
 
 ## Analysis and Visualization
-Further data wrangling, analysis, and visualization is done in Tableau and can be found on [Tableau Public](https://public.tableau.com/views/ChemicalsinCosmetics_15953635587470/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link).
+Further data wrangling, analysis, and visualization are done in Tableau and can be found on [Tableau Public](https://public.tableau.com/views/ChemicalsinCosmetics_15953635587470/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link).
