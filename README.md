@@ -13,4 +13,4 @@ Free-text columns are cleaned using the Python pandas library in an effort to re
 - cali_chemicals_cosmetics.ipynb: Jupyter notebook for cleaning free-text columns
 
 ## Analysis and Visualization
-Further data wrangling, analysis, and visualization are done in Tableau and can be found [here](https://public.tableau.com/views/ChemicalsinCosmetics_15953635587470/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link).
+Exploratory analysis and visualization are done in Tableau and the final dashboard can be found [here](https://public.tableau.com/views/ChemicalsinCosmetics_15953635587470/Dashboard?:language=en&:display_count=y&:origin=viz_share_link).
